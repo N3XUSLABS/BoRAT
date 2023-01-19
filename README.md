@@ -23,7 +23,7 @@ By using our software you agree to the license stated [here](https://github.com/
 * You will _not_ use BoRAT with malicious intent.
 * You will _not_ use BoRAT to actively spy and/or disrupt others.
 * You understand that NexusLabs is _not_ liable for damages caused by BoRAT.
-* You agree this tool is not made for cybercriminals to use.
+* You agree this tool is _not_ made for cybercriminals to use.
 
 ### Features
 
