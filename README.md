@@ -3,6 +3,10 @@ An open-source remote administration tool.
 ##### We are not related with the similar RAT called Borat~RAT
 ##### Originally [Vayne RaT](https://github.com/TheM4hd1/Vayne-RaT)
 
+![https://img.shields.io/github/license/N3XUSLABS/BoRAT?style=for-the-badge](https://img.shields.io/github/license/N3XUSLABS/BoRAT?style=for-the-badge)
+![https://img.shields.io/github/downloads/N3XUSLABS/BoRAT/total?style=for-the-badge](https://img.shields.io/github/downloads/N3XUSLABS/BoRAT/total?style=for-the-badge)
+![https://img.shields.io/github/v/release/N3XUSLABS/BoRAT?style=for-the-badge](https://img.shields.io/github/v/release/N3XUSLABS/BoRAT?style=for-the-badge)
+
 ## Warning
 We are NOT liable for any damages caused by BoRAT. This tool is not and will never be for cybercriminals.
 
