@@ -14,7 +14,7 @@ By using our software you agree to the license stated [here](LICENSE.md) and als
 - You will *not* use BoRAT with malicious intent.
 - You will *not* use BoRAT to actively spy and/or disrupt others.
 - You understand that NexusLabs is *not* liable for damages caused by BoRAT.
-- You agree this tool is not made for cybercriminals to use.
+- You agree this tool is *not* made for cybercriminals to use.
 
 ## Features
 - Remote View
